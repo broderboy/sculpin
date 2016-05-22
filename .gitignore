@@ -1,5 +1,6 @@
 vendor
 cache
+__SculpinTestProject__/
 sculpin.phar
 .idea/sculpin.iml
 .idea/workspace.xml
